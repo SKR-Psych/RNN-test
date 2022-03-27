@@ -3,7 +3,7 @@ keras.__version__
 
 import os
 
-data_dir = '/home/ubuntu/data/'
+data_dir = '/home/sami/data/python_directory'
 fname = os.path.join(data_dir, 'jena_climate_2009_2016.csv')
 
 f = open(fname)
